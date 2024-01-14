@@ -1,4 +1,4 @@
-# JS Toast Notifier App
+# JS Toast Notifier App 🔔
 
 A simple JavaScript-based toast notification application.
 
